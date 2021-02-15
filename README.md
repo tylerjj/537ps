@@ -4,10 +4,7 @@ cs_username: tjohnston
 email: tjjohnston2@wisc.edu
 
 Contribution:
-	- This project was done by myself, as an individual. I chose not
-	to search extensively for a partner, as my skillset was so weak
-	at the outset that I felt I would only be a detriment to others.
-	Going forward, I may be more inclined to find a group.
+	- This project was done by myself, as an individual.
 	
 	- I heavily utilized tutorials, man files, piazza, etc in 
 	order to shore up my lack of familiarity with C. I tried to be 
