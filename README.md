@@ -1,9 +1,13 @@
 Program: 537ps
+
 Author: Tyler Johnston
+
 cs_username: tjohnston
+
 email: tjjohnston2@wisc.edu
 
 Contribution:
+
 	- This project was done by myself, as an individual.
 	
 	- I heavily utilized tutorials, man files, piazza, etc in 
@@ -19,10 +23,14 @@ Contribution:
 	due to time constraints. 
 	
 Program Description: 
+
 	- http://pages.cs.wisc.edu/~bart/537/programs/program1.html
+	
 	- ^ Dead Link. See PDF PA01 containing project specs in project 
 	folder.
+	
 	- General Summary:
+	
 		a simple version of the ps command. Your version of ps,
 		called 537ps be executed from a command line. It will read a variety 
 		of information about one or more running programs (processes) on the 
